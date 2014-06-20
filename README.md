@@ -39,5 +39,5 @@ XMPP/Jabber notification from php through sendxmpp
 
 ## Usage
 
-    curl -F "msg=Test Message" http://php-notify.example.com
+    curl -F "msg=Test Message" http://php-notify.example.com/user/jmara
 
